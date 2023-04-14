@@ -8,5 +8,6 @@ struct ContentView: View {
             Button("Multiply"){
                 
             }
+        }
     }
 }
